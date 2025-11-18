@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\1books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A849-6372-4625-8F49-948F06210289}|1books\\1books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\1books\\1books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E568A849-6372-4625-8F49-948F06210289}|1books\\1books.csproj|solutionrelative:1books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A849-6372-4625-8F49-948F06210289}|1books\\1books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\1books\\1books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E568A849-6372-4625-8F49-948F06210289}|1books\\1books.csproj|solutionrelative:1books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\1books\\1books\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "1books\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\1books\\1books\\Models\\Book.cs*",
+              "RelativeToolTip": "1books\\Models\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:22:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\1books\\1books\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "1books\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\1books\\1books\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "1books\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:20:49.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
