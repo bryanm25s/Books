@@ -1,74 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\",
+  "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\certificados\\books\\books\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\home\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\home\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\books\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\certificados\\books\\books\\views\\books\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\certificados\\books\\books\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\certificados\\books\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\books\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|c:\\users\\bryan\\onedrive\\documentos\\certificados\\books\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C535B-22C0-4107-B7C1-175C416BED67}|books.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,216 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:28:08.857Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:28:07.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:28:06.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-13T02:26:20.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:25:19.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:25:18.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "inicio.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Home\\inicio.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\inicio.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Home\\inicio.cshtml",
-              "RelativeToolTip": "Views\\Home\\inicio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:25:16.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:25:13.629Z",
+              "WhenOpened": "2025-11-11T19:58:57.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T02:24:42.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T02:24:37.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\.gitattributes",
-              "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\.gitattributes",
-              "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-13T02:24:36.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T02:24:34.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Books\\Create.cshtml",
-              "RelativeToolTip": "Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T19:58:57.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Books\\Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Views\\Books\\Detalle.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Detalle.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Books\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Views\\Books\\Detalle.cshtml",
               "RelativeToolTip": "Views\\Books\\Detalle.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T15:42:40.848Z"
+              "WhenOpened": "2025-11-10T15:42:40.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T17:39:38.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA+wFYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T17:32:26.743Z"
+              "WhenOpened": "2025-11-04T17:32:26.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Books\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\books\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\CERTIFICADOS\\Books\\Books\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T17:10:41.466Z"
+              "WhenOpened": "2025-11-04T17:10:41.466Z",
+              "EditorCaption": ""
             }
           ]
         }
